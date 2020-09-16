@@ -2,7 +2,7 @@ import telebot
 from pprint import pprint 
 import random 
 
-bot = telebot.TeleBot('1094614963:AAH_O1nbEzTYkg8uvW8xDkyfXEYrfNVuix8')
+bot = telebot.TeleBot('MY API')
 
 user_messages_list = list()
 bot_messages_list= list()
